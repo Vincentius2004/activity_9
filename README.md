@@ -5,22 +5,23 @@ Berikut adalah tautan langsung ke serangkaian demonstrasi implementasi JavaScrip
 Silakan jelajahi setiap tautan untuk melihat langsung kode yang berjalan:
 
 1.Activity Mandiri : 
+
 **[https://vincentius2004.github.io/activity_9/Activity%20Mandiri]**
 Penjelasan: Aktivitas mandiri berisi latihan dasar penerapan JavaScript pada XHTML untuk memahami interaksi antara script dan elemen HTML.
 
 2.Form Validation (XHTML + JavaScript) : 
-**[https://vincentius2004.github.io/activity_9/xhtmljavascript-form-validation]**
 
+**[https://vincentius2004.github.io/activity_9/xhtmljavascript-form-validation]**
 Penjelasan: Latihan memvalidasi input form menggunakan JavaScript agar data yang dikirim sesuai format yang diinginkan.
 
 If-Else (Eksternal JavaScript) :
-**[https://vincentius2004.github.io/activity_9/xhtml-javascript-if-else-eksternal]**
 
+**[https://vincentius2004.github.io/activity_9/xhtml-javascript-if-else-eksternal]**
 Penjelasan: Contoh penggunaan struktur logika if-else pada file JavaScript eksternal untuk memisahkan logika dari kode HTML.
 
 If-Else (Internal JavaScript) : 
-**[https://vincentius2004.github.io/activity_9/xhtmljavascript-if-else-internal]**
 
+**[https://vincentius2004.github.io/activity_9/xhtmljavascript-if-else-internal]**
 Penjelasan: Demonstrasi penggunaan struktur if-else langsung di dalam file HTML menggunakan <script> internal.
 
 Switch Case (Internal JavaScript) :
